@@ -18,7 +18,7 @@ function Navbar() {
 
   return (
     <nav className={styles.navbarContainer}>
-      <div className={styles.logo}>Shoppi</div>
+      <div className={styles.logo}>ZionX</div>
 
       <ul className={styles.navLinks}>
         <li>
