@@ -11,12 +11,12 @@ const Contact = () => {
           <h4>Address:</h4>
           <p>
             <a
-              href="https://maps.app.goo.gl/obTLirTcGyD7Mwmf8"
+              href="https://maps.app.goo.gl/fovaLqGvknfpPvC99?g_st=ac"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Government College of Engineering,
-              Amravati, Maharashtra, 444604
+              GH Raisoni Skilltech University,
+              Nagpur, Maharashtra, 440030
             </a>
           </p>
         </div>
@@ -24,14 +24,14 @@ const Contact = () => {
         <div className={styles.infoItem}>
           <h4>Mobile Number:</h4>
           <p>
-            <a href="tel:+918669598813">+91 8669598813</a>
+            <a href="tel:+918766009153">+918766009153</a>
           </p>
         </div>
 
         <div className={styles.infoItem}>
           <h4>Email Id:</h4>
           <p>
-            <a href="mailto:sfulmali2907n@gmail.com">sfulmali2907n@gmail.com</a>
+            <a href="mailto:sujalfulmali2305@gmail.com">sujalfulmali2305@gmail.com</a>
           </p>
         </div>
       </div>
