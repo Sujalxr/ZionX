@@ -50,7 +50,7 @@ function Footer() {
       </div>
 
       <div className={styles.foothead}>
-        <h1>Developed by Sahil, Radha, Ashish</h1>
+        <h1>Developed by Sujal, Vansh, Tanushree</h1>
       </div>
     </div>
   );
